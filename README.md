@@ -1,7 +1,7 @@
-# Hello, I'm [Your Name] 
+# Hello, I'm Candria D'Souza 
 ## Aspiring Software Developer | Computer Science Student
 
-I'm currently studying Computer Science at [Your School], 
+I'm currently studying Computer Science at Milpitas High School, 
 focusing on full-stack development and cloud computing. 
 I'm passionate about creating efficient, user-friendly 
 applications and contributing to open-source projects.
@@ -22,8 +22,8 @@ applications and contributing to open-source projects.
 - Tools: Git, VS Code, Docker
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn URL]
-- Email: professional.email@domain.com
+- LinkedIn: www.linkedin.com/in/candria-dsouza
+- Email: cd99291@student.musd.org
 - Portfolio: [Your website if available]
 
 ### 📊 GitHub Stats
